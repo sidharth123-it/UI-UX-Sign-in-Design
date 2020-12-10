@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2249" height="1080" viewBox="0 0 2249 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #1f2532;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff35d;
+      }
+
+      .cls-17, .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7, .cls-9 {
+        fill: none;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-8 {
+        opacity: 0.24;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-10, .cls-12, .cls-23 {
+        fill: #ff7e7e;
+      }
+
+      .cls-10, .cls-21 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-14, .cls-21 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-11 {
+        fill: #827eff;
+      }
+
+      .cls-11, .cls-22, .cls-23 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-14 {
+        fill: #fff;
+        font-size: 27px;
+      }
+
+      .cls-15 {
+        fill: #ccd6ec;
+      }
+
+      .cls-16 {
+        fill: #d7deec;
+      }
+
+      .cls-17, .cls-20 {
+        opacity: 0.7;
+      }
+
+      .cls-18 {
+        opacity: 0.73;
+      }
+
+      .cls-19 {
+        opacity: 0.71;
+      }
+
+      .cls-21, .cls-24 {
+        fill: #122758;
+      }
+
+      .cls-25 {
+        filter: url(#Rectangle_16-2);
+      }
+
+      .cls-26 {
+        filter: url(#Intersection_1-2);
+      }
+
+      .cls-27 {
+        filter: url(#Path_7-2);
+      }
+
+      .cls-28 {
+        filter: url(#Rectangle_8-2);
+      }
+
+      .cls-29 {
+        filter: url(#Rectangle_7-2);
+      }
+
+      .cls-30 {
+        filter: url(#Rectangle_16);
+      }
+
+      .cls-31 {
+        filter: url(#Intersection_1);
+      }
+
+      .cls-32 {
+        filter: url(#Path_7);
+      }
+
+      .cls-33 {
+        filter: url(#Rectangle_8);
+      }
+
+      .cls-34 {
+        filter: url(#Rectangle_7);
+      }
+    </style>
+    <filter id="Rectangle_7" x="202" y="151" width="616" height="752" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f2532"/>
+      <stop offset="1" stop-color="#1f2532"/>
+    </linearGradient>
+    <filter id="Rectangle_8" x="210" y="160" width="616" height="752" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="253.754" y="163.903" width="336.809" height="167.721" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#fff35d"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="430" height="74" rx="37" transform="translate(310 273)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="430" height="74" rx="37"/>
+    </clipPath>
+    <filter id="Intersection_1" x="696" y="162" width="121" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-4"/>
+      <feFlood flood-color="#ff7e7e" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.953" y1="0.5" x2="0.065" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7e7e"/>
+      <stop offset="0.671" stop-color="#ffb66e"/>
+      <stop offset="1" stop-color="#fff35d"/>
+    </linearGradient>
+    <filter id="Rectangle_16" x="295" y="673" width="442" height="77" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-5"/>
+      <feFlood flood-color="#ff9f75"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7-2" x="1419" y="136" width="616" height="752" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8-2" x="1428" y="146" width="616" height="752" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7-2" x="1471.754" y="149.903" width="336.809" height="167.721" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#fff35d"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Intersection_1-2" x="1914" y="148" width="121" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-9"/>
+      <feFlood flood-color="#ff7e7e" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_16-2" x="1513" y="659" width="442" height="77" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-10"/>
+      <feFlood flood-color="#ff9f75"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="2249" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-2">
+    <rect class="cls-3" width="2249" height="1080"/>
+    <g id="background" transform="translate(-11 -9)">
+      <g class="cls-34" transform="matrix(1, 0, 0, 1, 11, 9)">
+        <rect id="Rectangle_7-3" data-name="Rectangle 7" class="cls-3" width="586" height="722" rx="34" transform="translate(221 170)"/>
+      </g>
+      <g class="cls-33" transform="matrix(1, 0, 0, 1, 11, 9)">
+        <rect id="Rectangle_8-3" data-name="Rectangle 8" class="cls-4" width="586" height="722" rx="34" transform="translate(221 170)"/>
+      </g>
+    </g>
+    <g class="cls-32" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_7-3" data-name="Path 7" class="cls-5" d="M278.3,142.9H585.546s24.786,75.47,0,114.323-20.909-55.212-20.909-55.212,15.637,85.907-16.385,55.212-6.445-40.546-6.445-40.546-10.086,135.484-30.644,44.53c-.452-2-.942-4.266-1.437-6.661-21.19-126.656-50.261-22.028-50.261-22.028s-6.309,55.225-20.819,24.7c-12.957-27.255-18.214-17.486-23.576-29.585a44.673,44.673,0,0,1-1.791-5.041c-60.036-1.691-33.823-34.669-65.955-47.6s-51.745,45.031-58.749,27.019S279.543,189,278.3,175,278.3,142.9,278.3,142.9Z" transform="translate(-15 27)"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-6" transform="translate(-11 -9)">
+      <path id="Path_1" data-name="Path 1" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-6" transform="translate(-11 128)">
+      <path id="Path_3" data-name="Path 3" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_5" data-name="Mask Group 5" class="cls-6" transform="translate(-11 265)">
+      <path id="Path_5" data-name="Path 5" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-8" transform="translate(299 264)">
+      <path id="Path_2" data-name="Path 2" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-8" transform="translate(299 401)">
+      <path id="Path_4" data-name="Path 4" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <g id="Mask_Group_6" data-name="Mask Group 6" class="cls-8" transform="translate(299 538)">
+      <path id="Path_6" data-name="Path 6" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <text id="username" class="cls-10" transform="translate(379 308)"><tspan x="0" y="0">username</tspan></text>
+    <text id="email" class="cls-10" transform="translate(379 445)"><tspan x="0" y="0">email</tspan></text>
+    <text id="password" class="cls-10" transform="translate(379 582)"><tspan x="0" y="0">password</tspan></text>
+    <text id="Already_have_an_account_Log_in" data-name="Already have an account ?  Log in" class="cls-10" transform="translate(360 784)"><tspan x="0" y="0" xml:space="preserve">Already have an account ?  </tspan><tspan class="cls-11" y="0">Log in</tspan></text>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" class="cls-12" d="M11.736,13.2a6.6,6.6,0,1,0-6.6-6.6A6.6,6.6,0,0,0,11.736,13.2ZM17.6,14.669H15.077a7.98,7.98,0,0,1-6.684,0H5.868A5.867,5.867,0,0,0,0,20.537v.733a2.2,2.2,0,0,0,2.2,2.2h19.07a2.2,2.2,0,0,0,2.2-2.2v-.733A5.867,5.867,0,0,0,17.6,14.669Z" transform="translate(333.264 289.264)"/>
+    <path id="Icon_awesome-key" data-name="Icon awesome-key" class="cls-12" d="M23,7.906a7.91,7.91,0,0,1-9.381,7.768L12.54,16.888a1.078,1.078,0,0,1-.806.362H10.063v1.8a1.078,1.078,0,0,1-1.078,1.078h-1.8v1.8A1.078,1.078,0,0,1,6.109,23H1.078A1.078,1.078,0,0,1,0,21.922V18.415a1.078,1.078,0,0,1,.316-.762l7.268-7.268A7.907,7.907,0,1,1,23,7.906ZM15.094,5.75A2.156,2.156,0,1,0,17.25,3.594,2.156,2.156,0,0,0,15.094,5.75Z" transform="translate(333.628 563.628)"/>
+    <path id="Icon_material-mail" data-name="Icon material-mail" class="cls-12" d="M23.25,6h-18A2.247,2.247,0,0,0,3.011,8.25L3,21.75A2.257,2.257,0,0,0,5.25,24h18a2.257,2.257,0,0,0,2.25-2.25V8.25A2.257,2.257,0,0,0,23.25,6Zm0,4.5-9,5.625-9-5.625V8.25l9,5.625,9-5.625Z" transform="translate(334.75 423)"/>
+    <g class="cls-31" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Intersection_1-3" data-name="Intersection 1" class="cls-12" d="M485,62a57.948,57.948,0,0,1,2.847-18H548a34,34,0,0,1,34,34v26.93A58,58,0,0,1,485,62Z" transform="translate(225 126)"/>
+    </g>
+    <g class="cls-30" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_16-3" data-name="Rectangle 16" class="cls-13" width="430" height="65" rx="32.5" transform="translate(299 677)"/>
+    </g>
+    <text id="Sign_Up" data-name="Sign Up" class="cls-14" transform="translate(465 719)"><tspan x="0" y="0">Sign Up</tspan></text>
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-15" width="1034" height="1080" transform="translate(1215)"/>
+    <g id="background-2" data-name="background" transform="translate(1207 -23)">
+      <g class="cls-29" transform="matrix(1, 0, 0, 1, -1207, 23)">
+        <rect id="Rectangle_7-4" data-name="Rectangle 7" class="cls-16" width="586" height="722" rx="34" transform="translate(1439 156)"/>
+      </g>
+      <g class="cls-28" transform="matrix(1, 0, 0, 1, -1207, 23)">
+        <rect id="Rectangle_8-4" data-name="Rectangle 8" class="cls-15" width="586" height="722" rx="34" transform="translate(1439 156)"/>
+      </g>
+    </g>
+    <g class="cls-27" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_7-4" data-name="Path 7" class="cls-5" d="M278.3,142.9H585.546s24.786,75.47,0,114.323-20.909-55.212-20.909-55.212,15.637,85.907-16.385,55.212-6.445-40.546-6.445-40.546-10.086,135.484-30.644,44.53c-.452-2-.942-4.266-1.437-6.661-21.19-126.656-50.261-22.028-50.261-22.028s-6.309,55.225-20.819,24.7c-12.957-27.255-18.214-17.486-23.576-29.585a44.673,44.673,0,0,1-1.791-5.041c-60.036-1.691-33.823-34.669-65.955-47.6s-51.745,45.031-58.749,27.019S279.543,189,278.3,175,278.3,142.9,278.3,142.9Z" transform="translate(1203 13)"/>
+    </g>
+    <g id="Mask_Group_1-2" data-name="Mask Group 1" class="cls-17" transform="translate(1207 -23)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_3-2" data-name="Mask Group 3" class="cls-17" transform="translate(1207 114)">
+      <path id="Path_3-2" data-name="Path 3" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_5-2" data-name="Mask Group 5" class="cls-17" transform="translate(1207 251)">
+      <path id="Path_5-2" data-name="Path 5" class="cls-7" d="M350.834,341.286s-37.008-3.257-35.527-35.527,35.527-34.343,35.527-34.343l358.606-.148s9.474.592,13.323,4.145" transform="translate(-4 4)"/>
+    </g>
+    <g id="Mask_Group_2-2" data-name="Mask Group 2" class="cls-18" transform="translate(1517 250)">
+      <path id="Path_2-2" data-name="Path 2" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <g id="Mask_Group_4-2" data-name="Mask Group 4" class="cls-19" transform="translate(1517 387)">
+      <path id="Path_4-2" data-name="Path 4" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <g id="Mask_Group_6-2" data-name="Mask Group 6" class="cls-20" transform="translate(1517 524)">
+      <path id="Path_6-2" data-name="Path 6" class="cls-9" d="M687.192,271.267s37.008,3.257,35.527,35.527-35.527,34.343-35.527,34.343l-358.606.148s-9.474-.592-13.323-4.145" transform="translate(-294.026 -269.553)"/>
+    </g>
+    <text id="username-2" data-name="username" class="cls-21" transform="translate(1597 294)"><tspan x="0" y="0">username</tspan></text>
+    <text id="email-2" data-name="email" class="cls-21" transform="translate(1597 431)"><tspan x="0" y="0">email</tspan></text>
+    <text id="password-2" data-name="password" class="cls-21" transform="translate(1597 568)"><tspan x="0" y="0">password</tspan></text>
+    <text id="Already_have_an_account_Log_in-2" data-name="Already have an account ?  Log in" class="cls-21" transform="translate(1578 770)"><tspan x="0" y="0">Already have an account ? </tspan><tspan class="cls-22" y="0"> </tspan><tspan class="cls-23" y="0">Log in</tspan></text>
+    <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" class="cls-24" d="M11.736,13.2a6.6,6.6,0,1,0-6.6-6.6A6.6,6.6,0,0,0,11.736,13.2ZM17.6,14.669H15.077a7.98,7.98,0,0,1-6.684,0H5.868A5.867,5.867,0,0,0,0,20.537v.733a2.2,2.2,0,0,0,2.2,2.2h19.07a2.2,2.2,0,0,0,2.2-2.2v-.733A5.867,5.867,0,0,0,17.6,14.669Z" transform="translate(1551.264 275.264)"/>
+    <path id="Icon_awesome-key-2" data-name="Icon awesome-key" class="cls-24" d="M23,7.906a7.91,7.91,0,0,1-9.381,7.768L12.54,16.888a1.078,1.078,0,0,1-.806.362H10.063v1.8a1.078,1.078,0,0,1-1.078,1.078h-1.8v1.8A1.078,1.078,0,0,1,6.109,23H1.078A1.078,1.078,0,0,1,0,21.922V18.415a1.078,1.078,0,0,1,.316-.762l7.268-7.268A7.907,7.907,0,1,1,23,7.906ZM15.094,5.75A2.156,2.156,0,1,0,17.25,3.594,2.156,2.156,0,0,0,15.094,5.75Z" transform="translate(1551.628 549.628)"/>
+    <path id="Icon_material-mail-2" data-name="Icon material-mail" class="cls-24" d="M23.25,6h-18A2.247,2.247,0,0,0,3.011,8.25L3,21.75A2.257,2.257,0,0,0,5.25,24h18a2.257,2.257,0,0,0,2.25-2.25V8.25A2.257,2.257,0,0,0,23.25,6Zm0,4.5-9,5.625-9-5.625V8.25l9,5.625,9-5.625Z" transform="translate(1552.75 409)"/>
+    <g class="cls-26" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Intersection_1-4" data-name="Intersection 1" class="cls-12" d="M485,62a57.948,57.948,0,0,1,2.847-18H548a34,34,0,0,1,34,34v26.93A58,58,0,0,1,485,62Z" transform="translate(1443 112)"/>
+    </g>
+    <g class="cls-25" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_16-4" data-name="Rectangle 16" class="cls-13" width="430" height="65" rx="32.5" transform="translate(1517 663)"/>
+    </g>
+    <text id="Sign_Up-2" data-name="Sign Up" class="cls-14" transform="translate(1683 705)"><tspan x="0" y="0">Sign Up</tspan></text>
+  </g>
+</svg>
