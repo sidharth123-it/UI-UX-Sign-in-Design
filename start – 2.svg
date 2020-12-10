@@ -1,0 +1,444 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="896" viewBox="0 0 414 896">
+  <defs>
+    <filter id="shape_dark" x="119.5" y="79.5" width="95" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="shape_light" x="99.5" y="59.5" width="95" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="-10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#fefefe"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S" x="37" y="210.297" width="87.196" height="152.607" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L" x="27" y="200.297" width="87.196" height="152.607" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-2" x="311.29" y="219.225" width="81.473" height="145.654" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-2" x="301.29" y="209.225" width="81.473" height="145.654" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-3" x="93.897" y="183" width="65.747" height="82.122" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-3" x="83.897" y="173" width="65.747" height="82.122" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-4" x="278.632" y="198.858" width="59.141" height="72.491" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-4" x="268.632" y="188.858" width="59.141" height="72.491" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-5" x="119.083" y="281.91" width="75.778" height="96.748" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-5" x="109.083" y="271.91" width="75.778" height="96.748" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-6" x="547.804" y="210.297" width="87.196" height="152.607" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-6" x="537.804" y="200.297" width="87.196" height="152.607" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-7" x="512.356" y="183" width="65.747" height="82.122" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-7" x="502.356" y="173" width="65.747" height="82.122" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-16"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_S-8" x="477.139" y="281.91" width="75.778" height="96.748" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-17"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_L-8" x="467.139" y="271.91" width="75.778" height="96.748" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-18"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Base" width="334" height="44" rx="22" transform="translate(149.455 440.94)" fill="#c3e5ff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Base-3" data-name="Base" width="334" height="42" rx="21" transform="translate(149.455 440.972)" fill="#c3e5ff"/>
+    </clipPath>
+    <filter id="Shadow" x="79.5" y="688.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-19"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Light" x="49.5" y="658.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="-15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-20"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Shadow-2" x="79.5" y="688.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-21"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Light-2" x="49.5" y="658.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="-15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-22"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Shadow-3" x="590.5" y="688.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-23"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Light-3" x="560.5" y="658.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="-15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-24"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Shadow-4" x="590.5" y="688.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-25"/>
+      <feFlood flood-color="#97a7c3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Light-4" x="560.5" y="658.5" width="270" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="-15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-26"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-start_2">
+      <rect width="414" height="896"/>
+    </clipPath>
+  </defs>
+  <g id="start_2" data-name="start – 2" clip-path="url(#clip-start_2)">
+    <rect width="414" height="896" fill="#ecf0f3"/>
+    <g id="shape" transform="translate(-25 -240)">
+      <g transform="matrix(1, 0, 0, 1, 25, 240)" filter="url(#shape_dark)">
+        <ellipse id="shape_dark-2" data-name="shape dark" cx="25" cy="27.5" rx="25" ry="27.5" transform="translate(132 92)" fill="#ecf0f3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 25, 240)" filter="url(#shape_light)">
+        <ellipse id="shape_light-2" data-name="shape light" cx="25" cy="27.5" rx="25" ry="27.5" transform="translate(132 92)" fill="#ecf0f3"/>
+      </g>
+      <g id="logo" transform="translate(151.798 329.5)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30" transform="translate(0.202 0.5)" fill="#193566"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="22.5" cy="22.5" r="22.5" transform="translate(15.202 0.5)" fill="#d1d9e6"/>
+      </g>
+    </g>
+    <text id="H_Y_P_E" data-name="H Y P E" transform="translate(207 127)" fill="#707070" font-size="20" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">H Y P E</tspan></text>
+    <g id="Trees" transform="translate(47 193)">
+      <g id="Group_29" data-name="Group 29" transform="translate(0 27.297)">
+        <g transform="matrix(1, 0, 0, 1, -47, -220.3)" filter="url(#Union_S)">
+          <path id="Union_S-9" data-name="Union S" d="M28.917,0c49.169,84.268,24.232,122.607,0,122.607Zm0,0V122.607C4.138,122.607-21.362,84.268,28.917,0Z" transform="translate(47 220.3)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -47, -220.3)" filter="url(#Union_L)">
+          <path id="Union_L-9" data-name="Union L" d="M28.917,0c49.169,84.268,24.232,122.607,0,122.607Zm0,0V122.607C4.138,122.607-21.362,84.268,28.917,0Z" transform="translate(47 220.3)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58" data-name="Path 58" d="M1412.9,2753.343l-.472,20.612-6-6.278,6,7.832v19.941l-12.848-6.087-1.9-10.843,1.412,11.318,13.338,6.927-.34,20.293-21.307-14.855,21.307,16.37-.316,28.829h1.558l-.008-39,17.881-17.8-17.881,16.074.1-26.792,7.228-7.02-7.228,5.659Z" transform="translate(-1383.827 -2708.876)" fill="#193566"/>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="17.5" cy="4" rx="17.5" ry="4" transform="translate(11.069 135.326)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_33" data-name="Group 33" transform="translate(274.29 36.225)">
+        <g transform="matrix(1, 0, 0, 1, -321.29, -229.23)" filter="url(#Union_S-2)">
+          <path id="Union_S-10" data-name="Union S" d="M26.024,0c44.249,79.489,21.807,115.654,0,115.654Zm0,0V115.654C3.724,115.654-19.224,79.489,26.024,0Z" transform="translate(321.29 229.23)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -321.29, -229.23)" filter="url(#Union_L-2)">
+          <path id="Union_L-10" data-name="Union L" d="M26.024,0c44.249,79.489,21.807,115.654,0,115.654Zm0,0V115.654C3.724,115.654-19.224,79.489,26.024,0Z" transform="translate(321.29 229.23)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-2" data-name="Path 58" d="M1410.895,2753.343l-.429,18.876-5.457-5.749,5.457,7.172v18.262l-11.685-5.574-1.73-9.93,1.285,10.365,12.131,6.344-.309,18.584-19.378-13.6,19.378,14.992-.287,26.4h1.417l-.007-35.72,16.262-16.3-16.262,14.721.088-24.537,6.573-6.428-6.573,5.182Z" transform="translate(-1384.456 -2709.353)" fill="#193566"/>
+        <ellipse id="Ellipse_18-2" data-name="Ellipse 18" cx="15.5" cy="3.5" rx="15.5" ry="3.5" transform="translate(10.626 127.397)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_30" data-name="Group 30" transform="translate(56.897 0)">
+        <g transform="matrix(1, 0, 0, 1, -103.9, -193)" filter="url(#Union_S-3)">
+          <path id="Union_S-11" data-name="Union S" d="M18.073,0c30.729,35.823,15.145,52.122,0,52.122Zm0,0V52.122C2.586,52.122-13.351,35.823,18.073,0Z" transform="translate(103.9 193)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -103.9, -193)" filter="url(#Union_L-3)">
+          <path id="Union_L-11" data-name="Union L" d="M18.073,0c30.729,35.823,15.145,52.122,0,52.122Zm0,0V52.122C2.586,52.122-13.351,35.823,18.073,0Z" transform="translate(103.9 193)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-3" data-name="Path 58" d="M1404.6,2753.343l-.3,12.882-3.75-3.923,3.75,4.895v12.463l-8.03-3.8-1.189-6.776.883,7.073,8.336,4.329-.212,12.683-13.316-9.284,13.316,10.231-.2,18.018h.974l-.005-24.376,11.175-11.125-11.175,10.046.06-16.744,4.517-4.387-4.517,3.537Z" transform="translate(-1386.434 -2750.058)" fill="#193566"/>
+        <ellipse id="Ellipse_18-3" data-name="Ellipse 18" cx="10.5" cy="2" rx="10.5" ry="2" transform="translate(7.172 60.413)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_34" data-name="Group 34" transform="translate(241.632 15.858)">
+        <g transform="matrix(1, 0, 0, 1, -288.63, -208.86)" filter="url(#Union_S-4)">
+          <path id="Union_S-12" data-name="Union S" d="M14.733,0c25.051,29.2,12.346,42.491,0,42.491Zm0,0V42.491C2.108,42.491-10.884,29.2,14.733,0Z" transform="translate(288.63 208.86)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -288.63, -208.86)" filter="url(#Union_L-4)">
+          <path id="Union_L-12" data-name="Union L" d="M14.733,0c25.051,29.2,12.346,42.491,0,42.491Zm0,0V42.491C2.108,42.491-10.884,29.2,14.733,0Z" transform="translate(288.63 208.86)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-4" data-name="Path 58" d="M1402.048,2753.343l-.24,10.5-3.057-3.2,3.057,3.99v10.16l-6.546-3.1-.969-5.524.72,5.766,6.8,3.529-.173,10.34-10.856-7.569,10.856,8.341-.161,14.688h.794l0-19.872,9.11-9.069-9.11,8.189.049-13.65,3.682-3.577-3.682,2.884Z" transform="translate(-1387.237 -2750.665)" fill="#193566"/>
+        <ellipse id="Ellipse_18-4" data-name="Ellipse 18" cx="8.5" cy="1.5" rx="8.5" ry="1.5" transform="translate(5.884 49.555)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_31" data-name="Group 31" transform="translate(82.083 98.91)">
+        <g transform="matrix(1, 0, 0, 1, -129.08, -291.91)" filter="url(#Union_S-5)">
+          <path id="Union_S-13" data-name="Union S" d="M23.144,66.748C62.5,20.872,42.539,0,23.144,0Zm0,0V0C3.312,0-17.1,20.872,23.144,66.748Z" transform="translate(174.86 358.66) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -129.08, -291.91)" filter="url(#Union_L-5)">
+          <path id="Union_L-13" data-name="Union L" d="M23.144,66.748C62.5,20.872,42.539,0,23.144,0Zm0,0V0C3.312,0-17.1,20.872,23.144,66.748Z" transform="translate(174.86 358.66) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-5" data-name="Path 58" d="M1405.429,2753.343l.378,16.5,4.8-5.024-4.8,6.268v15.96l10.283-4.872,1.522-8.678-1.13,9.059-10.675,5.544.272,16.242,17.053-11.89-17.053,13.1.253,23.074h-1.247l.006-31.217-14.312-14.247,14.312,12.865-.077-21.443-5.785-5.619,5.785,4.529Z" transform="translate(-1382.918 -2749.136)" fill="#193566"/>
+        <ellipse id="Ellipse_18-5" data-name="Ellipse 18" cx="13.738" cy="2.986" rx="13.738" ry="2.986" transform="translate(9.129 77.117)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_35" data-name="Group 35" transform="translate(510.804 27.297)">
+        <g transform="matrix(1, 0, 0, 1, -557.8, -220.3)" filter="url(#Union_S-6)">
+          <path id="Union_S-14" data-name="Union S" d="M28.917,122.607C78.086,38.339,53.149,0,28.917,0Zm0,0V0C4.138,0-21.362,38.339,28.917,122.607Z" transform="translate(615 342.9) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -557.8, -220.3)" filter="url(#Union_L-6)">
+          <path id="Union_L-14" data-name="Union L" d="M28.917,122.607C78.086,38.339,53.149,0,28.917,0Zm0,0V0C4.138,0-21.362,38.339,28.917,122.607Z" transform="translate(615 342.9) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-6" data-name="Path 58" d="M1409.083,2753.343l.472,20.612,6-6.278-6,7.832v19.942l12.848-6.087,1.9-10.843-1.412,11.318-13.338,6.927.339,20.293L1431.2,2802.2l-21.307,16.37.316,28.829h-1.558l.008-39-17.881-17.8,17.881,16.074-.1-26.792-7.228-7.02,7.228,5.659Z" transform="translate(-1380.957 -2708.877)" fill="#193566"/>
+        <ellipse id="Ellipse_18-6" data-name="Ellipse 18" cx="17.724" cy="3.731" rx="17.724" ry="3.731" transform="translate(10.859 135.563)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_36" data-name="Group 36" transform="translate(475.356)">
+        <g transform="matrix(1, 0, 0, 1, -522.36, -193)" filter="url(#Union_S-7)">
+          <path id="Union_S-15" data-name="Union S" d="M18.073,52.122C48.8,16.3,33.217,0,18.073,0Zm0,0V0C2.586,0-13.351,16.3,18.073,52.122Z" transform="translate(558.1 245.12) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -522.36, -193)" filter="url(#Union_L-7)">
+          <path id="Union_L-15" data-name="Union L" d="M18.073,52.122C48.8,16.3,33.217,0,18.073,0Zm0,0V0C2.586,0-13.351,16.3,18.073,52.122Z" transform="translate(558.1 245.12) rotate(180)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-7" data-name="Path 58" d="M1402.219,2753.343l.3,12.882,3.75-3.923-3.75,4.895v12.463l8.03-3.8,1.189-6.777-.883,7.073-8.336,4.329.212,12.683,13.316-9.284-13.316,10.231.2,18.018h-.974l.005-24.376-11.175-11.125,11.175,10.046-.06-16.745-4.517-4.387,4.517,3.537Z" transform="translate(-1384.64 -2750.057)" fill="#193566"/>
+        <ellipse id="Ellipse_18-7" data-name="Ellipse 18" cx="10.727" cy="2.332" rx="10.727" ry="2.332" transform="translate(7.128 60.218)" fill="#193566" opacity="0.3"/>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(440.139 98.91)">
+        <g transform="matrix(1, 0, 0, 1, -487.14, -291.91)" filter="url(#Union_S-8)">
+          <path id="Union_S-16" data-name="Union S" d="M23.144,0c39.353,45.876,19.395,66.748,0,66.748Zm0,0V66.748C3.312,66.748-17.1,45.876,23.144,0Z" transform="translate(487.14 291.91)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -487.14, -291.91)" filter="url(#Union_L-8)">
+          <path id="Union_L-16" data-name="Union L" d="M23.144,0c39.353,45.876,19.395,66.748,0,66.748Zm0,0V66.748C3.312,66.748-17.1,45.876,23.144,0Z" transform="translate(487.14 291.91)" fill="#ecf0f3"/>
+        </g>
+        <path id="Path_58-8" data-name="Path 58" d="M1408.481,2753.343l-.378,16.5-4.8-5.024,4.8,6.268v15.961l-10.283-4.872-1.522-8.678,1.13,9.059,10.675,5.544-.272,16.242-17.053-11.89,17.053,13.1-.253,23.074h1.247l-.007-31.217,14.312-14.247-14.312,12.865.077-21.444,5.785-5.618-5.785,4.529Z" transform="translate(-1385.214 -2749.136)" fill="#193566"/>
+        <ellipse id="Ellipse_18-8" data-name="Ellipse 18" cx="13.738" cy="2.986" rx="13.738" ry="2.986" transform="translate(9.173 77.117)" fill="#193566" opacity="0.3"/>
+      </g>
+    </g>
+    <g id="text_feilds" data-name="text feilds">
+      <text id="WELCOME" transform="translate(22 457)" fill="#193566" font-size="40" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">WELCOME</tspan></text>
+      <text id="WELCOME-2" data-name="WELCOME" transform="translate(22 457)" fill="#193566" font-size="40" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">WELCOME</tspan></text>
+      <text id="Let_s_get_started" data-name="Let&apos;s get started" transform="translate(22 511)" fill="#193566" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">Let&apos;s get started</tspan></text>
+      <text id="Let_s_get_started-2" data-name="Let&apos;s get started" transform="translate(22 511)" fill="#193566" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">Let&apos;s get started</tspan></text>
+      <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-112.455 108.06)" clip-path="url(#clip-path)">
+        <g id="Shadow-5" data-name="Shadow" transform="translate(149.455 440.94)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="56" rx="28" stroke="none"/>
+          <rect x="3" y="3" width="339" height="50" rx="25" fill="none"/>
+        </g>
+        <g id="Light-5" data-name="Light" transform="translate(131.455 431.94)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="47" rx="23.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-112.455 108.06)" clip-path="url(#clip-path)">
+        <g id="Shadow-6" data-name="Shadow" transform="translate(149.455 440.94)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="56" rx="28" stroke="none"/>
+          <rect x="3" y="3" width="339" height="50" rx="25" fill="none"/>
+        </g>
+        <g id="Light-6" data-name="Light" transform="translate(131.455 431.94)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="47" rx="23.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-112.455 175.028)" clip-path="url(#clip-path-3)">
+        <g id="Shadow-7" data-name="Shadow" transform="translate(149.455 440.972)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="339" height="47" rx="23.5" fill="none"/>
+        </g>
+        <g id="Light-7" data-name="Light" transform="translate(131.455 431.972)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="51" rx="25.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="45" rx="22.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-112.455 175.028)" clip-path="url(#clip-path-3)">
+        <g id="Shadow-8" data-name="Shadow" transform="translate(149.455 440.972)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="339" height="47" rx="23.5" fill="none"/>
+        </g>
+        <g id="Light-8" data-name="Light" transform="translate(131.455 431.972)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="51" rx="25.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="45" rx="22.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Your_email_here" data-name="Your email here" transform="translate(63 578)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your email here</tspan></text>
+      <text id="Your_email_here-2" data-name="Your email here" transform="translate(63 578)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your email here</tspan></text>
+      <text id="Your_passward_here" data-name="Your passward here" transform="translate(63 642)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your passward here</tspan></text>
+      <text id="Your_passward_here-2" data-name="Your passward here" transform="translate(63 642)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your passward here</tspan></text>
+      <text id="Forgot_Password" data-name="Forgot Password" transform="translate(37 683)" fill="#193566" font-size="12" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Forgot Password</tspan></text>
+      <g id="Icon_awesome-eye-slash" data-name="Icon awesome-eye-slash" transform="translate(331 630)">
+        <path id="Icon_awesome-eye-slash-2" data-name="Icon awesome-eye-slash" d="M9,11.718a4.107,4.107,0,0,1-4.019-3.9L2.031,5.444A9.809,9.809,0,0,0,1,7.072a.983.983,0,0,0,0,.855,8.994,8.994,0,0,0,8,5.2,8.409,8.409,0,0,0,2.191-.306L9.731,11.642A3.9,3.9,0,0,1,9,11.718Zm8.826,1.7-3.109-2.5A9.649,9.649,0,0,0,17,7.927a.983.983,0,0,0,0-.855,8.994,8.994,0,0,0-8-5.2,8.4,8.4,0,0,0-4.143,1.1L1.279.1A.438.438,0,0,0,.647.181L.095.921a.482.482,0,0,0,.079.658L16.721,14.9a.438.438,0,0,0,.632-.082l.552-.74a.482.482,0,0,0-.079-.658ZM12.659,9.26l-1.105-.89A2.88,2.88,0,0,0,11.7,7.5a2.819,2.819,0,0,0-1.052-2.247A2.58,2.58,0,0,0,8.288,4.8a1.435,1.435,0,0,1,.262.826,1.419,1.419,0,0,1-.043.293L6.436,4.251A3.907,3.907,0,0,1,9,3.281a3.967,3.967,0,0,1,2.864,1.235A4.307,4.307,0,0,1,13.05,7.5a4.261,4.261,0,0,1-.391,1.761Z" transform="translate(0 0)" fill="#a9b6c9"/>
+      </g>
+      <text id="Sign_up" data-name="Sign up" transform="translate(167 847)" fill="#193566" font-size="20" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Sign up</tspan></text>
+      <text id="Sign_up-2" data-name="Sign up" transform="translate(167 847)" fill="#193566" font-size="20" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Sign up</tspan></text>
+      <g id="UP" transform="translate(102 711)">
+        <g transform="matrix(1, 0, 0, 1, -102, -711)" filter="url(#Shadow)">
+          <rect id="Shadow-9" data-name="Shadow" width="195" height="62" rx="31" transform="translate(102 711)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -102, -711)" filter="url(#Light)">
+          <rect id="Light-9" data-name="Light" width="195" height="62" rx="31" transform="translate(102 711)" fill="#ecf0f3"/>
+        </g>
+        <rect id="Base-9" data-name="Base" width="195" height="62" rx="31" fill="#ecf0f3"/>
+      </g>
+      <g id="UP-2" data-name="UP" transform="translate(102 711)">
+        <g transform="matrix(1, 0, 0, 1, -102, -711)" filter="url(#Shadow-2)">
+          <rect id="Shadow-10" data-name="Shadow" width="195" height="62" rx="31" transform="translate(102 711)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -102, -711)" filter="url(#Light-2)">
+          <rect id="Light-10" data-name="Light" width="195" height="62" rx="31" transform="translate(102 711)" fill="#ecf0f3"/>
+        </g>
+        <rect id="Base-10" data-name="Base" width="195" height="62" rx="31" fill="#ecf0f3"/>
+      </g>
+      <text id="Sign_in" data-name="Sign in" transform="translate(200 751)" fill="#193566" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.807" y="0">Sign in</tspan></text>
+      <text id="Sign_up-3" data-name="Sign up" transform="translate(678 847)" fill="#193566" font-size="20" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Sign up</tspan></text>
+      <text id="Sign_in-2" data-name="Sign in" transform="translate(678 847)" fill="#193566" font-size="20" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Sign in</tspan></text>
+      <text id="Sign_in-3" data-name="Sign in" transform="translate(711 751)" fill="#193566" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.807" y="0">Sign in</tspan></text>
+      <text id="Sign_in-4" data-name="Sign in" transform="translate(711 751)" fill="#193566" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.807" y="0">Sign in</tspan></text>
+      <g id="UP-3" data-name="UP" transform="translate(613 711)">
+        <g transform="matrix(1, 0, 0, 1, -613, -711)" filter="url(#Shadow-3)">
+          <rect id="Shadow-11" data-name="Shadow" width="195" height="62" rx="31" transform="translate(613 711)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -613, -711)" filter="url(#Light-3)">
+          <rect id="Light-11" data-name="Light" width="195" height="62" rx="31" transform="translate(613 711)" fill="#ecf0f3"/>
+        </g>
+        <rect id="Base-11" data-name="Base" width="195" height="62" rx="31" fill="#ecf0f3"/>
+      </g>
+      <g id="UP-4" data-name="UP" transform="translate(613 711)">
+        <g transform="matrix(1, 0, 0, 1, -613, -711)" filter="url(#Shadow-4)">
+          <rect id="Shadow-12" data-name="Shadow" width="195" height="62" rx="31" transform="translate(613 711)" fill="#ecf0f3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -613, -711)" filter="url(#Light-4)">
+          <rect id="Light-12" data-name="Light" width="195" height="62" rx="31" transform="translate(613 711)" fill="#ecf0f3"/>
+        </g>
+        <rect id="Base-12" data-name="Base" width="195" height="62" rx="31" fill="#ecf0f3"/>
+      </g>
+      <text id="Your_email_here-3" data-name="Your email here" transform="translate(574 578)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your email here</tspan></text>
+      <text id="Your_email_here-4" data-name="Your email here" transform="translate(574 578)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your email here</tspan></text>
+      <text id="Your_passward_here-3" data-name="Your passward here" transform="translate(574 642)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your passward here</tspan></text>
+      <text id="Your_passward_here-4" data-name="Your passward here" transform="translate(574 642)" fill="#193566" font-size="16" font-family="YuGothic-Light, Yu Gothic" font-weight="300"><tspan x="0" y="0">Your passward here</tspan></text>
+      <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(398.545 108.06)" clip-path="url(#clip-path)">
+        <g id="Shadow-13" data-name="Shadow" transform="translate(149.455 440.94)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="56" rx="28" stroke="none"/>
+          <rect x="3" y="3" width="339" height="50" rx="25" fill="none"/>
+        </g>
+        <g id="Light-13" data-name="Light" transform="translate(131.455 431.94)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="47" rx="23.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(398.545 108.06)" clip-path="url(#clip-path)">
+        <g id="Shadow-14" data-name="Shadow" transform="translate(149.455 440.94)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="56" rx="28" stroke="none"/>
+          <rect x="3" y="3" width="339" height="50" rx="25" fill="none"/>
+        </g>
+        <g id="Light-14" data-name="Light" transform="translate(131.455 431.94)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="47" rx="23.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(398.545 175.028)" clip-path="url(#clip-path-3)">
+        <g id="Shadow-15" data-name="Shadow" transform="translate(149.455 440.972)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="339" height="47" rx="23.5" fill="none"/>
+        </g>
+        <g id="Light-15" data-name="Light" transform="translate(131.455 431.972)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="51" rx="25.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="45" rx="22.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(398.545 175.028)" clip-path="url(#clip-path-3)">
+        <g id="Shadow-16" data-name="Shadow" transform="translate(149.455 440.972)" fill="none" stroke="#97a7c3" stroke-width="6">
+          <rect width="345" height="53" rx="26.5" stroke="none"/>
+          <rect x="3" y="3" width="339" height="47" rx="23.5" fill="none"/>
+        </g>
+        <g id="Light-16" data-name="Light" transform="translate(131.455 431.972)" fill="none" stroke="#fff" stroke-width="6">
+          <rect width="352" height="51" rx="25.5" stroke="none"/>
+          <rect x="3" y="3" width="346" height="45" rx="22.5" fill="none"/>
+        </g>
+      </g>
+      <text id="WELCOME-3" data-name="WELCOME" transform="translate(533 457)" fill="#193566" font-size="40" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">WELCOME</tspan></text>
+      <text id="WELCOME-4" data-name="WELCOME" transform="translate(533 457)" fill="#193566" font-size="40" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">WELCOME</tspan></text>
+      <text id="Let_s_get_started-3" data-name="Let&apos;s get started" transform="translate(533 511)" fill="#193566" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">Let&apos;s get started</tspan></text>
+      <text id="Let_s_get_started-4" data-name="Let&apos;s get started" transform="translate(533 511)" fill="#193566" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">Let&apos;s get started</tspan></text>
+      <text id="Sign_up-4" data-name="Sign up" transform="translate(714 751)" fill="#193566" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-42.838" y="0">Sign up</tspan></text>
+      <g id="Icon_awesome-eye-slash-3" data-name="Icon awesome-eye-slash" transform="translate(847 630)">
+        <path id="Icon_awesome-eye-slash-4" data-name="Icon awesome-eye-slash" d="M9,11.718a4.107,4.107,0,0,1-4.019-3.9L2.031,5.444A9.809,9.809,0,0,0,1,7.072a.983.983,0,0,0,0,.855,8.994,8.994,0,0,0,8,5.2,8.409,8.409,0,0,0,2.191-.306L9.731,11.642A3.9,3.9,0,0,1,9,11.718Zm8.826,1.7-3.109-2.5A9.649,9.649,0,0,0,17,7.927a.983.983,0,0,0,0-.855,8.994,8.994,0,0,0-8-5.2,8.4,8.4,0,0,0-4.143,1.1L1.279.1A.438.438,0,0,0,.647.181L.095.921a.482.482,0,0,0,.079.658L16.721,14.9a.438.438,0,0,0,.632-.082l.552-.74a.482.482,0,0,0-.079-.658ZM12.659,9.26l-1.105-.89A2.88,2.88,0,0,0,11.7,7.5a2.819,2.819,0,0,0-1.052-2.247A2.58,2.58,0,0,0,8.288,4.8a1.435,1.435,0,0,1,.262.826,1.419,1.419,0,0,1-.043.293L6.436,4.251A3.907,3.907,0,0,1,9,3.281a3.967,3.967,0,0,1,2.864,1.235A4.307,4.307,0,0,1,13.05,7.5a4.261,4.261,0,0,1-.391,1.761Z" transform="translate(0 0)" fill="#a9b6c9"/>
+      </g>
+      <text id="Accept_Terms_and_Conditions" data-name="Accept Terms and Conditions" transform="translate(580 684)" fill="#193566" font-size="12" font-family="YuGothic-Light, Yu Gothic" font-weight="300" text-decoration="underline"><tspan x="0" y="0">Accept Terms and Conditions</tspan></text>
+      <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M16.563,8.562a8,8,0,1,1-8-8A8,8,0,0,1,16.563,8.562ZM7.637,12.8l5.935-5.935a.516.516,0,0,0,0-.73l-.73-.73a.516.516,0,0,0-.73,0L7.272,10.244l-2.26-2.26a.516.516,0,0,0-.73,0l-.73.73a.516.516,0,0,0,0,.73L6.907,12.8a.516.516,0,0,0,.73,0Z" transform="translate(554.438 671.438)" fill="#586e90"/>
+    </g>
+  </g>
+</svg>
